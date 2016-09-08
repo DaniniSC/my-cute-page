@@ -1,0 +1,84 @@
+/* CSS HEADER */
+header {
+	padding: 10px;
+	text-align: center;
+}
+header .container .row .col-12 a {
+	text-decoration: none;
+	margin: 0 20px;
+	color: black;
+	font-weight: bold;
+}
+/* CSS SECTION BANNER */
+.banner {
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	padding-top: 100px;
+	height: 375px;
+}
+.logo {
+	margin-left: 445px;
+}
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 35px;
+}
+h2 {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+/* CSS ABOUT */
+.about {
+	background-image: url(../images/tile1.png);
+	background-size: cover;
+	padding-bottom: 25px;
+}
+.about .container .row .col-12 {
+	text-align: center;
+}
+h3 {
+	color: purple;
+	margin: 30px;
+	font-size: 25px;
+}
+.perfil {
+	width: 230px;
+	height: auto;
+	border: solid grey 3px;
+	padding: 3px;
+}
+/* CSS FAVOURITES */
+.favourites .container .row .col-12 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+h4 {
+	color: purple;
+	font-size: 20px;
+}
+.gatitos {
+	margin-top: 10px;
+}
+.gatitos img {
+	width: 180px;
+	height: 180px;
+	display: inline-block;
+	border-radius: 100%;
+	border: 3px solid purple;
+	padding: 3px;
+	margin: 10px;
+}
+/* CSS FOOTER */
+footer {
+	background-image: url(../images/tile2.png);
+	background-size: cover;
+	padding: 25px;
+}
+footer .container .row .col-12 {
+	text-align: center;
+}
+.logosContacto img {
+	margin: 10px;
+}
